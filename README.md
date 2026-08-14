@@ -1,2 +1,2 @@
 # new_dotfiles
-< img sic="./images/wallpaper.jpg" >
+< img src="./images/wallpaper.jpg" width="100%">
