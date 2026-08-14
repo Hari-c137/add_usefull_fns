@@ -1,2 +1,4 @@
 # new_dotfiles
-< img src="./images/wallpaper.png">
+<p>
+<img src ="./images/wallpaper.png" >
+</p>
