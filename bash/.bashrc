@@ -190,13 +190,6 @@ fastfetch
 
 alias ls='ls -la'
 alias clear='clear && fastfetch'
-#if ! pgrep -x "$USER" ssh-agent > /dev/null; then
-#	eval "$(ssh-agent -s)" >/dev/null 
-#        ssh-add ~/.ssh/id_ed25519 >/dev/null 2>&1
-	
-#fi
-#/home/lausmirus/.config/fastfetch/athena-logo.png
-#ssh-add ~/.ssh/id_ed25519
 
 
 . "$HOME/.cargo/env"
